@@ -6,6 +6,6 @@ Author: Ruth Peterhans ruth.maria.peterhans@usi.ch and Giuliano Giovanardi, giul
 Maintainer: The package maintainer <ruthmp@usi.ch>
 Description: With the package RentCalculatoR you can calculate the change in rent of residential real estate according to Swiss law. Changes in value-adding investments, depreciation, interests and reference interest rates can be taken into account.
 License: GPL-2 
-Imports: xml2, rvest, tidyverse, readxl, readr
+Imports: xml2, rvest, tidyverse, readxl
 Encoding: UTF-8
 LazyData: true
